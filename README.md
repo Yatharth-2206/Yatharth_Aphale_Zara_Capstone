@@ -95,7 +95,6 @@ Yatharth_Aphale_Zara_Capstone
 ├── 5_Executive_Summary/    ← 10-slide executive summary (pptx + pdf)
 ├── data/                   ← Note on the raw data files
 ├── cover.png               ← Repo cover image
-├── UPLOAD_GUIDE.md         ← Git LFS command-prompt guide
 └── README.md
 ```
 
